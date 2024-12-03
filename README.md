@@ -1,1 +1,1 @@
-![Alt text](resource/software_architeture.jpg?raw=true "Title")
+![Software Architecture Image](resource/software_architecture.jpg?raw=true "Software Architecture")
