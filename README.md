@@ -1,1 +1,1 @@
-![Alt text](resource/software_architecture.jpg?raw=true "Title")
+![Alt text](resource/software_architeture.jpg?raw=true "Title")
